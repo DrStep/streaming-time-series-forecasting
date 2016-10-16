@@ -1,0 +1,3 @@
+[submodule "deeplearning4j"]
+	path = deeplearning4j
+	url = https://github.com/DrStep/deeplearning4j.git
